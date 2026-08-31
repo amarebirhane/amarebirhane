@@ -1,4 +1,4 @@
-# ⚡ Senior Software Engineer & Systems Architect
+# ⚡  Software Engineer & Systems Architect
 
 <p align="center">
   <a href="https://amarebirhane.vercel.app">
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <b> Software Engineer & Architect</b> &nbsp;•&nbsp; 📍 Mekelle, Tigray, Ethiopia &nbsp;•&nbsp; 🟢 <b>Open for Staff / Senior Engineering Roles</b>
+  <b> Software Engineer & Architect</b> &nbsp;•&nbsp; 📍 Mekelle, Tigray, Ethiopia &nbsp;•&nbsp; 🟢 <b>Open for Staff /  Engineering Roles</b>
 </p>
 
 <p align="center">
