@@ -1,59 +1,91 @@
-# ⚡ Architecting Scalable Web & Mobile Solutions
+# ⚡ Architecting Scalable Web & Mobile Ecosystems
 
 <p align="center">
   <a href="https://amarebirhane.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=AMARE+BIRHANE;Full-Stack+%26+Mobile+Software+Engineer;Next.js+%E2%80%A2+Vue.js+%E2%80%A2+Flutter+%E2%80%A2+React+Native;FastAPI+%E2%80%A2+NestJS+%E2%80%A2+Node.js+%E2%80%A2+Java" alt="Amare Birhane - Software Engineer" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=3B82F6&center=true&vCenter=true&width=750&lines=AMARE+BIRHANE;Software+Engineer+%E2%80%A2+Full-Stack+%26+Mobile;Next.js+%E2%80%A2+Vue.js+%E2%80%A2+Flutter+%E2%80%A2+React+Native;FastAPI+%E2%80%A2+NestJS+%E2%80%A2+Node.js+%E2%80%A2+Java" alt="Amare Birhane - Software Engineer" />
   </a>
 </p>
 
 <p align="center">
-  <b>Software Engineer</b> &nbsp;•&nbsp; 📍 Mekelle, Tigray, Ethiopia
+  <b>Software Engineer</b> &nbsp;•&nbsp; 📍 Mekelle, Tigray, Ethiopia &nbsp;•&nbsp; 💼 <b>Open for Global Opportunities</b>
 </p>
 
 <p align="center">
-  <a href="https://amarebirhane.vercel.app"><img src="https://img.shields.io/badge/Portfolio-amarebirhane.vercel.app-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/amarebirhane"><img src="https://img.shields.io/badge/LinkedIn-amarebirhane-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:amarebirhane89@gmail.com"><img src="https://img.shields.io/badge/Email-amarebirhane89%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://amarebirhane.vercel.app"><img src="https://img.shields.io/badge/🌐_Portfolio-amarebirhane.vercel.app-2563EB?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/amarebirhane"><img src="https://img.shields.io/badge/💼_LinkedIn-amarebirhane-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:amarebirhane89@gmail.com"><img src="https://img.shields.io/badge/✉️_Email-amarebirhane89%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
 
-> 💡 **Personal Philosophy:** *"Great engineering isn't just about writing code that works today—it's about building resilient, performant systems that seamlessly adapt to tomorrow's challenges."*
+### ⚡ `developer.ts`
+
+```typescript
+const amareBirhane: SoftwareEngineer = {
+  role: "Software Engineer",
+  location: "Mekelle, Tigray, Ethiopia",
+  education: "BSc Software Engineering @ Mekelle University",
+  specialties: ["Full-Stack Web Systems", "Cross-Platform Mobile Engineering", "Backend Microservices"],
+  coreStack: {
+    frontend: ["Next.js", "Vue.js", "React"],
+    mobile: ["Flutter", "React Native"],
+    backend: ["FastAPI", "NestJS", "Node.js"],
+    languages: ["TypeScript", "JavaScript", "Java"]
+  },
+  engineeringPhilosophy: "Build resilient, sub-second latency systems with type-safety & clean abstractions.",
+  availableForHire: true
+};
+```
 
 ---
 
-### 🚀 Who I Am
+### 💡 Engineering Philosophy
 
-I'm **Amare Birhane**, a product-minded **Software Engineer** passionate about bridging backend power with fluid frontend experiences. Whether crafting cross-platform mobile apps using **Flutter** and **React Native**, building interactive web platforms with **Next.js** and **Vue.js**, or designing robust REST/GraphQL APIs with **FastAPI** and **NestJS**, I thrive on turning complex domain logic into clean, scalable software.
+> *"Great software isn't just about writing code that works today—it's about engineering modular, maintainable infrastructure that scales effortlessly into tomorrow."*
+
+- 🏗️ **Architecture-First Mindset:** Modular codebase structures designed for domain clarity, high maintainability, and rapid feature iteration.
+- ⚡ **Performance & UX Obsession:** Optimizing database queries, server-side rendering, and bundle sizes for sub-second latencies.
+- 🛡️ **Production-Grade Reliability:** Strict type-safety, RBAC security, comprehensive validation, and automated deployment pipelines.
+
+---
+
+### 📊 Track Record & Impact
+
+| Metric | Achievement | Engineering Impact |
+| :--- | :--- | :--- |
+| 🚀 **35+ Systems Shipped** | End-to-end applications across fintech, healthcare, logistics & edtech | Proven capability to build from scratch & scale to production |
+| 🛡️ **1,000+ Active Policies** | Automated life insurance engine with complex underwriting logic | Eliminated spreadsheet bottlenecks & automated workflow |
+| 📉 **40% Error Drop** | Engineered smart validation forms & FastAPI backend controls | Drastically reduced manual data-entry errors for enterprises |
+| 👥 **20+ Devs Mentored** | Former Tech Lead at Mekelle University Tech Club | Cultivated engineering talent & fostered collaborative code culture |
 
 ---
 
 ### 🧩 What I Do (Core Expertise)
 
-- 🌐 **Modern Web Ecosystems:** Designing SSR/SSG web platforms with **Next.js**, **Vue.js**, and modern CSS frameworks that deliver sub-second response times.
-- 📱 **Cross-Platform Mobile:** Engineering unified, native-feeling iOS and Android applications with **Flutter** and **React Native**.
-- ⚙️ **High-Performance Backends:** Architecting decoupled, asynchronous microservices and APIs with **FastAPI**, **NestJS**, and **Node.js**.
-- 🧱 **Enterprise Code Quality:** Leveraging **TypeScript** and **Java** to enforce type safety, domain-driven design, and maintainable software patterns.
+- 🌐 **Modern Web Ecosystems:** Crafting SSR/SSG web platforms using **Next.js** and **Vue.js** paired with modern CSS & state management.
+- 📱 **Cross-Platform Mobile Apps:** Building fluid, native-performing iOS and Android applications with **Flutter** and **React Native**.
+- ⚙️ **High-Performance Backends:** Architecting decoupled, event-driven RESTful & GraphQL microservices with **FastAPI**, **NestJS**, and **Node.js**.
+- 🧱 **Enterprise Code Quality:** Writing bulletproof code in **TypeScript** and **Java** with clean architecture, domain-driven design, and strict type safety.
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack & Tooling
 
 #### **Frontend & Mobile Development**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,vue,react,flutter,ts,js,html,css" alt="Frontend and Mobile Stack" />
+    <img src="https://skillicons.dev/icons?i=nextjs,vue,react,flutter,ts,js,html,css" alt="Frontend and Mobile" />
   </a>
 </p>
 
-#### **Backend, APIs & Server Systems**
+#### **Backend, APIs & Server Infrastructure**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=fastapi,nestjs,nodejs,express,java,postgres,mongodb,docker" alt="Backend Stack" />
+    <img src="https://skillicons.dev/icons?i=fastapi,nestjs,nodejs,express,java,postgres,mongodb,docker" alt="Backend Infrastructure" />
   </a>
 </p>
 
-#### **Languages & Core Tooling**
+#### **Languages & Developer Tools**
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,js,python,java,dart,git,github,vscode" alt="Languages and Tooling" />
@@ -62,15 +94,54 @@ I'm **Amare Birhane**, a product-minded **Software Engineer** passionate about b
 
 ---
 
-### 🎯 Focus Areas & Currently Building
+### 🌟 Featured Deep-Dive Projects
 
-- ⚡ **Scalable Microservice Architecture:** Deep-diving into event-driven backends using NestJS and FastAPI.
-- 📱 **Fluid Mobile UI/UX:** Refining state management patterns in Flutter & React Native for offline-first performance.
-- 🧪 **Test-Driven Reliability:** Expanding end-to-end and unit testing pipelines across full-stack applications.
+<details>
+<summary>🏫 <b>School Management Portal</b> — <i>(Next.js • TypeScript • Prisma • PostgreSQL)</i></summary>
+<br />
+
+- **Key Highlights:** Multi-tenant educational ecosystem with automated grade calculations, attendance tracking, and real-time parent-teacher messaging.
+- **Architecture:** Tenant-isolated database architecture with server-side rendering for instant page transitions.
+- 🔗 **Live Demo:** [amarebirhane.vercel.app](https://amarebirhane.vercel.app)
+</details>
+
+<details>
+<summary>🛡️ <b>Life Insurance Underwriting Engine</b> — <i>(FastAPI • Next.js • PostgreSQL • JWT)</i></summary>
+<br />
+
+- **Key Highlights:** Automated premium risk calculation, claims workflow engine, and multi-tier agent commission tracking.
+- **Impact:** Reduced manual data entry errors by **40%** while processing **1,000+ active policies**.
+- 🔗 **Live Demo:** [amarebirhane.vercel.app](https://amarebirhane.vercel.app)
+</details>
+
+<details>
+<summary>📈 <b>Enterprise Financial Platform</b> — <i>(Python • FastAPI • Vue.js • Docker)</i></summary>
+<br />
+
+- **Key Highlights:** Real-time expense monitoring, financial forecasting dashboard, multi-currency ledger, and exportable compliance reports.
+- **Architecture:** Containerized via Docker for instant environment reproducibility and zero-downtime deployments.
+- 🔗 **Live Demo:** [amarebirhane.vercel.app](https://amarebirhane.vercel.app)
+</details>
+
+<details>
+<summary>🤖 <b>NextGen AI Assistant Platform</b> — <i>(Next.js • NestJS • PyTorch • PostgreSQL)</i></summary>
+<br />
+
+- **Key Highlights:** Predictive analytics suite, real-time streaming LLM processing, and custom vector search integration.
+- 🔗 **Live Demo:** [amarebirhane.vercel.app](https://amarebirhane.vercel.app)
+</details>
 
 ---
 
-### 📊 GitHub Activity & Stats
+### 🎯 2026 Focus Areas
+
+- ⚡ **Event-Driven Backends:** Deepening expertise in NestJS microservices and distributed queueing (Redis/BullMQ).
+- 📱 **Offline-First Mobile UX:** Refining local storage & synchronization state management in Flutter and React Native.
+- 🧪 **Automated Testing Pipelines:** Expanding full-stack test coverage (Jest, Cypress, PyTest) for mission-critical apps.
+
+---
+
+### 📊 GitHub Profile Analytics
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=amarebirhane&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Amare's GitHub Stats" />
@@ -83,23 +154,23 @@ I'm **Amare Birhane**, a product-minded **Software Engineer** passionate about b
 
 ---
 
-### ☕ Beyond The Terminal (Fun Touch)
+### ☕ Beyond The Terminal
 
-- ☕ Fueled by authentic Ethiopian coffee and curiosity.
-- 🎓 Passionate about mentoring emerging developers and building tech community initiatives.
-- 📖 Always reading about system architecture, UX psychology, and emerging tech trends.
+- ☕ **Ethiopian Coffee Enthusiast:** Best code is written with authentic, freshly roasted Ethiopian coffee.
+- 🎓 **Tech Community Builder:** Active mentor dedicated to elevating emerging developers and leading tech workshops.
+- 📖 **Continuous Learner:** Currently diving deeper into distributed systems design and web performance engineering.
 
 ---
 
-### 🤝 Let's Connect & Collaborate!
+### 🤝 Let's Build Something Exceptional!
 
-I am always open to discussing new opportunities, open-source projects, or tech ideas. Reach out directly:
+Whether you are looking for a **Software Engineer**, **Full-Stack Developer**, or **Mobile App Specialist**, let's connect:
 
-- 🌐 **Portfolio:** [amarebirhane.vercel.app](https://amarebirhane.vercel.app)
-- 💼 **LinkedIn:** [linkedin.com/in/amarebirhane](https://www.linkedin.com/in/amarebirhane)
-- ✉️ **Email:** [amarebirhane89@gmail.com](mailto:amarebirhane89@gmail.com)
-- 🐙 **GitHub:** [@amarebirhane](https://github.com/amarebirhane)
+- 🌐 **Portfolio Website:** [amarebirhane.vercel.app](https://amarebirhane.vercel.app)
+- 💼 **LinkedIn Profile:** [linkedin.com/in/amarebirhane](https://www.linkedin.com/in/amarebirhane)
+- ✉️ **Direct Email:** [amarebirhane89@gmail.com](mailto:amarebirhane89@gmail.com)
+- 🐙 **GitHub Repository:** [@amarebirhane](https://github.com/amarebirhane)
 
 <p align="center">
-  <sub>Designed & built with care by Amare Birhane • 2026</sub>
+  <sub>Engineered with precision & passion by Amare Birhane • 2026</sub>
 </p>
