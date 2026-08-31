@@ -7,14 +7,32 @@
 </p>
 
 <p align="center">
-  <b>Software Engineer</b> &nbsp;•&nbsp; 📍 Mekelle, Tigray, Ethiopia &nbsp;•&nbsp; 💼 <b>Open for Global Opportunities</b>
+  <b>Software Engineer</b> &nbsp;•&nbsp; 📍 Mekelle, Tigray, Ethiopia &nbsp;•&nbsp; 🟢 <b>Open for High-Impact Roles</b>
 </p>
 
 <p align="center">
   <a href="https://amarebirhane.vercel.app"><img src="https://img.shields.io/badge/🌐_Portfolio-amarebirhane.vercel.app-2563EB?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/amarebirhane"><img src="https://img.shields.io/badge/💼_LinkedIn-amarebirhane-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:amarebirhane89@gmail.com"><img src="https://img.shields.io/badge/✉️_Email-amarebirhane89%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=amarebirhane&color=2563EB&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
+
+---
+
+### 🖥️ Interactive Terminal Output
+
+```bash
+$ npx amarebirhane --info
+
+  [+] Name:        Amare Birhane
+  [+] Role:        Software Engineer (Full-Stack & Mobile)
+  [+] Location:    Mekelle, Tigray, Ethiopia
+  [+] Web Stack:   Next.js, Vue.js, FastAPI, NestJS, Node.js
+  [+] Mobile:      Flutter, React Native
+  [+] Core Languages: TypeScript, JavaScript, Java, Python, Dart
+  [+] Portfolio:   https://amarebirhane.vercel.app
+  [+] Status:      Available for Full-Time, Lead, & High-Impact Contracts 🚀
+```
 
 ---
 
@@ -30,12 +48,33 @@ const amareBirhane: SoftwareEngineer = {
     frontend: ["Next.js", "Vue.js", "React"],
     mobile: ["Flutter", "React Native"],
     backend: ["FastAPI", "NestJS", "Node.js"],
-    languages: ["TypeScript", "JavaScript", "Java"]
+    languages: ["TypeScript", "JavaScript", "Java", "Python", "Dart"]
   },
   engineeringPhilosophy: "Build resilient, sub-second latency systems with type-safety & clean abstractions.",
   availableForHire: true
 };
 ```
+
+---
+
+### 🎯 Why Work With Me? (Value Proposition Matrix)
+
+| Target Partner | What I Bring to the Table | Preferred Stack | Delivery Impact |
+| :--- | :--- | :--- | :--- |
+| 🚀 **Startups (0-to-1)** | Rapid MVP development, modular database schema design, fast iteration cycles | Next.js • FastAPI • Supabase/PostgreSQL | Shipped in weeks with zero technical debt |
+| 🏢 **Enterprise Teams** | Scalable microservice architecture, strict type-safety, RBAC security, clean code standards | NestJS • Java • Node.js • Docker | Bulletproof backends handling heavy traffic |
+| 📱 **Mobile Product Teams** | Unified iOS & Android development, offline-first state management, smooth 60fps UI | Flutter • React Native • REST/GraphQL | Single codebase efficiency with native performance |
+
+---
+
+### 📊 Track Record & Engineering Impact
+
+| Metric | Achievement | Engineering Impact |
+| :--- | :--- | :--- |
+| 🚀 **35+ Systems Shipped** | End-to-end applications across fintech, healthcare, logistics & edtech | Proven capability to build from scratch & scale to production |
+| 🛡️ **1,000+ Active Policies** | Automated life insurance engine with complex underwriting logic | Eliminated spreadsheet bottlenecks & automated workflow |
+| 📉 **40% Error Drop** | Engineered smart validation forms & FastAPI backend controls | Drastically reduced manual data-entry errors for enterprises |
+| 👥 **20+ Devs Mentored** | Former Tech Lead at Mekelle University Tech Club | Cultivated engineering talent & fostered collaborative code culture |
 
 ---
 
@@ -49,27 +88,7 @@ const amareBirhane: SoftwareEngineer = {
 
 ---
 
-### 📊 Track Record & Impact
-
-| Metric | Achievement | Engineering Impact |
-| :--- | :--- | :--- |
-| 🚀 **35+ Systems Shipped** | End-to-end applications across fintech, healthcare, logistics & edtech | Proven capability to build from scratch & scale to production |
-| 🛡️ **1,000+ Active Policies** | Automated life insurance engine with complex underwriting logic | Eliminated spreadsheet bottlenecks & automated workflow |
-| 📉 **40% Error Drop** | Engineered smart validation forms & FastAPI backend controls | Drastically reduced manual data-entry errors for enterprises |
-| 👥 **20+ Devs Mentored** | Former Tech Lead at Mekelle University Tech Club | Cultivated engineering talent & fostered collaborative code culture |
-
----
-
-### 🧩 What I Do (Core Expertise)
-
-- 🌐 **Modern Web Ecosystems:** Crafting SSR/SSG web platforms using **Next.js** and **Vue.js** paired with modern CSS & state management.
-- 📱 **Cross-Platform Mobile Apps:** Building fluid, native-performing iOS and Android applications with **Flutter** and **React Native**.
-- ⚙️ **High-Performance Backends:** Architecting decoupled, event-driven RESTful & GraphQL microservices with **FastAPI**, **NestJS**, and **Node.js**.
-- 🧱 **Enterprise Code Quality:** Writing bulletproof code in **TypeScript** and **Java** with clean architecture, domain-driven design, and strict type safety.
-
----
-
-### 🛠️ Tech Stack & Tooling
+### 🛠️ Tech Stack & Ecosystem
 
 #### **Frontend & Mobile Development**
 <p align="left">
@@ -90,6 +109,18 @@ const amareBirhane: SoftwareEngineer = {
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,js,python,java,dart,git,github,vscode" alt="Languages and Tooling" />
   </a>
+</p>
+
+---
+
+### ⚙️ Developer Environment & Productivity Setup
+
+<p align="center">
+  <img src="https://img.shields.io/badge/IDE-VS_Code_(Tokyo_Night)-1E1E2E?style=flat-square&logo=visualstudiocode&logoColor=007ACC" />
+  <img src="https://img.shields.io/badge/Terminal-Windows_WSL2_/_Zsh-4E5569?style=flat-square&logo=windows-terminal&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database-PostgreSQL_/_MongoDB_/_Redis-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Containers-Docker_/_Compose-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deployment-Vercel_/_Docker_Containers-000000?style=flat-square&logo=vercel&logoColor=white" />
 </p>
 
 ---
@@ -150,6 +181,14 @@ const amareBirhane: SoftwareEngineer = {
 
 <p align="center">
   <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarebirhane&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 💬 Daily Tech Thought
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </p>
 
 ---
