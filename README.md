@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <b>Senior Software Engineer & Architect</b> &nbsp;•&nbsp; 📍 Mekelle, Tigray, Ethiopia &nbsp;•&nbsp; 🟢 <b>Open for Staff / Senior Engineering Roles</b>
+  <b> Software Engineer & Architect</b> &nbsp;•&nbsp; 📍 Mekelle, Tigray, Ethiopia &nbsp;•&nbsp; 🟢 <b>Open for Staff / Senior Engineering Roles</b>
 </p>
 
 <p align="center">
