@@ -1,229 +1,172 @@
-# ⚡  Software Engineer & Systems Architect
+# Hi, I'm Amare 👋
 
 <p align="center">
   <a href="https://amarebirhane.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=AMARE+BIRHANE;Software+Engineer+%E2%80%A2+Systems+Architect;Next.js+%E2%80%A2+Vue.js+%E2%80%A2+Flutter+%E2%80%A2+React+Native;FastAPI+%E2%80%A2+NestJS+%E2%80%A2+Node.js+%E2%80%A2+Java;" alt="Amare Birhane - Systems Architect" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Full-Stack+%26+Mobile+Software+Engineer;Next.js+%E2%80%A2+FastAPI+%E2%80%A2+Flutter+%E2%80%A2+React+Native;TypeScript+%E2%80%A2+Python+%E2%80%A2+PostgreSQL+%E2%80%A2+Docker" alt="Amare Birhane" />
   </a>
 </p>
 
 <p align="center">
-  <b> Software Engineer & Architect</b> &nbsp;•&nbsp; 📍 Mekelle, Tigray, Ethiopia &nbsp;•&nbsp; 🟢 <b>Open for Staff /  Engineering Roles</b>
+  📍 Mek'ele, Tigray, Ethiopia &nbsp;•&nbsp; 🟢 Open to remote-first Full-Stack roles &amp; internships
 </p>
 
 <p align="center">
   <a href="https://amarebirhane.vercel.app"><img src="https://img.shields.io/badge/🌐_Portfolio-amarebirhane.vercel.app-2563EB?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/amarebirhane"><img src="https://img.shields.io/badge/💼_LinkedIn-amarebirhane-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:amarebirhane89@gmail.com"><img src="https://img.shields.io/badge/✉️_Email-amarebirhane89%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=amarebirhane&color=2563EB&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 ---
 
-### 🖥️ Interactive Architect Terminal
+### 👋 About Me
 
-```bash
-$ npx amarebirhane --architect
+I'm a full-stack and mobile engineer based in Mek'ele, Ethiopia, turning real-world problems — insurance workflows, financial tracking, university resource booking — into software that holds up in production. I care as much about the unglamorous parts of the job as the exciting ones: clean data models, sane API design, and code a teammate can still read six months later.
 
-  [+] Name:              Amare Birhane
-  [+] Designation:       Software Engineer & Systems Architect
-  [+] Location:          Mekelle, Tigray, Ethiopia
-  [+] Architectural Core: High-Availability Systems, Sub-100ms Latency APIs, DDD
-  [+] Web Ecosystem:     Next.js (App Router/SSR), Vue.js, FastAPI, NestJS, Node.js
-  [+] Mobile Stack:      Flutter (BLoC/Riverpod), React Native
-  [+] Enterprise Core:   TypeScript, Java, Python, Dart, PostgreSQL, Docker
-  [+] Portfolio:         https://amarebirhane.vercel.app
-  [+] Status:            Available for Lead / Staff Engineering Roles 🚀
-```
+I've shipped 35+ projects across fintech, healthcare, education, and social impact with Next.js, FastAPI, React, Flutter, and PostgreSQL, including production systems delivered during internships with **Vite Technology** and **Mekelle University**. I'm finishing my BSc in Software Engineering this year and looking for a remote-first team to keep building things that matter.
 
 ---
 
-### ⚡ `developer.ts`
+### 🎓 Education
 
-```typescript
-interface StaffEngineer {
-  name: string;
-  title: string;
-  location: string;
-  specialties: string[];
-  architecturalPrinciples: string[];
-  coreTech: Record<string, string[]>;
-  availableForHire: boolean;
-}
-
-const amareBirhane: StaffEngineer = {
-  name: "Amare Birhane",
-  title: "Software Engineer & Systems Architect",
-  location: "Mekelle, Tigray, Ethiopia",
-  specialties: [
-    "High-Availability Microservices",
-    "Cross-Platform Mobile Ecosystems",
-    "Sub-100ms API Latency Tuning",
-    "Domain-Driven Design (DDD) & Type Safety"
-  ],
-  architecturalPrinciples: [
-    "Modular Decoupling & Explicit Boundaries",
-    "Asynchronous Non-Blocking I/O",
-    "Zero-Trust RBAC & JWT Security",
-    "Containerized Infrastructure Parity"
-  ],
-  coreTech: {
-    frontend: ["Next.js", "Vue.js", "React"],
-    mobile: ["Flutter", "React Native"],
-    backend: ["FastAPI", "NestJS", "Node.js", "Express"],
-    languages: ["TypeScript", "JavaScript", "Java", "Python", "Dart"],
-    dataAndInfra: ["PostgreSQL", "MongoDB", "Redis", "Docker", "Git/GitHub"]
-  },
-  availableForHire: true
-};
-```
+**BSc, Software Engineering** — Mekelle University · Sep 2021 – Jul 2026
+Coursework: Data Structures & Algorithms, Software Engineering, Database Systems, Operating Systems, Computer Networks, OOP, Web Development
 
 ---
 
-### 🏗️ Production System Architecture Blueprint
+### 🛠️ Tech Stack
 
-```
- 📱 Mobile Clients (Flutter / React Native)        🌐 Web Clients (Next.js SSR / Vue 3)
-         │                                                   │
-         └─────────────────────────┬─────────────────────────┘
-                                   ▼
-                   🛡️ API Gateway & Security Tier
-                 (FastAPI AsyncIO / NestJS Guards / RBAC & JWT)
-                                   │
-         ┌─────────────────────────┼─────────────────────────┐
-         ▼                         ▼                         ▼
- ⚙️ Microservice A         ⚙️ Microservice B         ⚙️ Async Event Queue
- (Policy & Workflow)     (Auth & Multi-Tenant)       (Redis / BullMQ / Workers)
-         │                         │                         │
-         └─────────────────────────┼─────────────────────────┘
-                                   ▼
-                   🗄️ Persistence & Data Tier
-             (PostgreSQL Multi-Tenant / MongoDB / Redis Cache)
-                                   │
-                                   ▼
-                   🐳 Docker Orchestration & CI/CD
-```
+**Languages**
+<p align="left"><img src="https://skillicons.dev/icons?i=ts,python,js,dart,java,kotlin,swift" alt="Languages" /></p>
+
+**Frontend & Mobile**
+<p align="left"><img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,redux,flutter" alt="Frontend and Mobile" /></p>
+
+**Backend & Databases**
+<p align="left"><img src="https://skillicons.dev/icons?i=fastapi,nestjs,nodejs,express,postgres,mongodb,sqlite,prisma" alt="Backend and Databases" /></p>
+
+**DevOps, Cloud & Tools**
+<p align="left"><img src="https://skillicons.dev/icons?i=docker,githubactions,aws,vercel,linux,git,github,postman" alt="DevOps and Tools" /></p>
+
+Also: RESTful APIs, JWT/OAuth2, WebSockets, Swagger/OpenAPI, Pytest, Jest, Agile/Scrum, Clean Architecture, Design Patterns
 
 ---
 
-### 🎯 Engineering ROI & Value Matrix
+### 💼 Experience
 
-| Partner Type | Technical Value Proposition | Core Stack Leveraged | Engineering ROI & Velocity |
-| :--- | :--- | :--- | :--- |
-| 🚀 **Startups (0-to-1)** | Architecting scalable MVP foundations, fast DB schema iteration, sub-second UX | Next.js • FastAPI • PostgreSQL | Shipped in weeks with clean abstractions & zero tech debt |
-| 🏢 **Enterprise & Scale-ups** | Decoupled microservices, strict type-safety, RBAC security, zero-downtime CI/CD | NestJS • Java • Node.js • Docker | High throughput handling peak traffic with sub-100ms APIs |
-| 📱 **Mobile Ecosystems** | Single codebase cross-platform engineering, offline-first sync, 60fps UI | Flutter • React Native • REST/GraphQL | Reduced mobile dev overhead by 50% with unified codebase |
+**Full-Stack Software Engineer** — Freelance & Academic Projects · *Sep 2021 – Present*
+- Built 25+ full-stack projects spanning fintech, social impact, healthcare, education, and logistics on a core Next.js / FastAPI / React / PostgreSQL stack, every one containerized with Docker.
+- Resolved 50+ production defects across personal and academic systems, cutting average resolution time by 45% through systematic root-cause analysis.
+- Led the Mekelle University Tech Club as Student Technical Lead, organizing hackathons and workshops for 50+ students, and personally mentored 20+ junior developers in React, Next.js, Python, and FastAPI.
 
----
+**Software Engineering Intern — Insurance Management System** — Vite Technology · *2024*
+- Built a full-stack insurance policy platform handling 1,000+ active policies with automated premium calculation and renewal tracking, replacing a manual spreadsheet process.
+- Engineered a NestJS/PostgreSQL backend with JWT auth and RBAC for agents, supervisors, and admins, integrated with a responsive Next.js frontend.
+- Cut manual data-entry errors by ~40% through automated validation, shipping with zero critical security incidents post-deployment.
 
-### 📊 Production Track Record & Metrics
-
-| Metric | Enterprise Achievement | Technical Impact & Scale |
-| :--- | :--- | :--- |
-| 🚀 **35+ Systems Delivered** | End-to-end applications shipped across fintech, healthtech & logistics | Full lifecycle ownership: DB design ➔ API ➔ Frontend ➔ Docker deploy |
-| ⚡ **Sub-100ms Latencies** | API response optimization in FastAPI & NestJS backends | Indexed DB queries, asynchronous caching & optimized payload JSON |
-| 🛡️ **1,000+ Active Policies** | Automated life insurance underwriting engine | Replaced manual spreadsheet workflows with automated policy logic |
-| 📉 **40% Error Drop** | Smart client-side & server-side validation engine | Drastically reduced manual data-entry errors for enterprise clients |
-| 👥 **20+ Devs Mentored** | Former Technical Lead at Mekelle University Tech Club | Conducted architecture workshops, code reviews & guided junior devs |
+**Software Engineering Intern — Research Management Portal** — Mekelle University ICT Directorate, Research Unit · *2023*
+- Delivered a WordPress-powered researcher portal serving 200+ faculty members for submission and tracking of academic research projects.
+- Extended the platform with custom PHP plugins, JS integrations, and REST API connections.
+- Improved average page load performance by 35% through asset optimization, caching, and query tuning.
 
 ---
 
-### 🛡️ Enterprise Engineering Standards
+### 🌟 Key Projects
 
-- 🏗️ **Domain-Driven Design (DDD):** Enforcing explicit domain boundaries, clean architecture layers, and isolated business logic.
-- ⚡ **Asynchronous Concurrency:** Maximizing non-blocking I/O event loops in FastAPI (AsyncIO/Pydantic) and NestJS.
-- 🔒 **Zero-Trust Security:** Bulletproof RBAC authorization, JWT authentication, input sanitization, and strict CORS policies.
-- 🧪 **Test-Driven Reliability:** Unit, integration, and E2E testing pipelines (Jest, PyTest, Cypress) with automated CI/CD checks.
+<details>
+<summary>📱 <b>Daily Activity Management</b> — <i>Flutter • Dart • Kotlin • Swift • FastAPI • Docker</i></summary>
+<br />
+
+Cross-platform iOS & Android app built with Flutter/Dart, with native Kotlin and Swift modules for platform-specific features, backed by a Dockerized FastAPI service.
+🔗 [github.com/amarebirhane/daiy-activity-management](https://github.com/amarebirhane/daiy-activity-management)
+</details>
+
+<details>
+<summary>💰 <b>Financial Management System</b> — <i>Next.js • FastAPI • PostgreSQL • JWT • Docker • AWS</i></summary>
+<br />
+
+Financial platform managing 500+ records with real-time transaction tracking, audit logs, and 20+ REST endpoints; containerized and deployed to AWS with 99.9% uptime.
+🔗 [github.com/amarebirhane/financial-management-system](https://github.com/amarebirhane/financial-management-system)
+</details>
+
+<details>
+<summary>🤖 <b>AI Infrastructure Reliability Platform</b> — <i>TypeScript • Python • FastAPI • Docker</i></summary>
+<br />
+
+A Dockerized platform for real-time data processing and predictive analytics, with a TypeScript frontend and Python/FastAPI services.
+🔗 [github.com/amarebirhane/AI-Infrastructure-Reliability-Platform](https://github.com/amarebirhane/AI-Infrastructure-Reliability-Platform)
+</details>
+
+<details>
+<summary>🛡️ <b>Health Insurance System</b> — <i>Next.js • FastAPI • PostgreSQL • RBAC • Docker</i></summary>
+<br />
+
+An insurance portal for policy administration and claims processing, with role-based dashboards for admin, agent, and supervisor personas.
+🔗 [github.com/amarebirhane/health-insurance-system](https://github.com/amarebirhane/health-insurance-system)
+</details>
+
+<details>
+<summary>🧾 <b>Taxations Management System</b> — <i>TypeScript • Next.js • NestJS • PostgreSQL • Docker</i></summary>
+<br />
+
+A tax management platform with role-based authentication, audit logging, and automated tax calculations — input sanitization as a first-class concern.
+🔗 [github.com/amarebirhane/taxations-management-system](https://github.com/amarebirhane/taxations-management-system)
+</details>
+
+<details>
+<summary>🏫 <b>Student Management System</b> — <i>TypeScript • Next.js • Docker</i></summary>
+<br />
+
+An educational platform for student records and attendance tracking with role-based access, containerized for easy deployment.
+🔗 [github.com/amarebirhane/student_management_system](https://github.com/amarebirhane/student_management_system)
+</details>
+
+<details>
+<summary>📚 <b>Tigray Resources Center</b> — <i>Vue.js • Node.js • MongoDB • Docker</i></summary>
+<br />
+
+A real-time university asset booking system for 500+ resources with live availability updates and conflict prevention.
+🔗 [github.com/amarebirhane/Tigray_Resources_Center](https://github.com/amarebirhane/Tigray_Resources_Center)
+</details>
+
+<details>
+<summary>✅ <b>Smart Task & Productivity Manager</b> — <i>TypeScript • Python • Docker</i></summary>
+<br />
+
+A full-stack productivity app with a TypeScript frontend, Python services, and a Dockerized deployment pipeline.
+🔗 [github.com/amarebirhane/Smart-Task-Productivity-Manager](https://github.com/amarebirhane/Smart-Task-Productivity-Manager)
+</details>
 
 ---
 
-### 🛠️ Technology & Infrastructure Ecosystem
+### 📜 Certifications
 
-#### **Frontend & Mobile Development**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,vue,react,flutter,ts,js,html,css" alt="Frontend and Mobile" />
-  </a>
-</p>
-
-#### **Backend, APIs & Server Infrastructure**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=fastapi,nestjs,nodejs,express,java,postgres,mongodb,docker" alt="Backend Infrastructure" />
-  </a>
-</p>
-
-#### **Languages & Core Tooling**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,python,java,dart,git,github,vscode" alt="Languages and Tooling" />
-  </a>
-</p>
+- Artificial Intelligence Fundamentals — Udacity
+- Android Developer Fundamentals — Udacity
+- Data Analysis Fundamentals — Udacity
+- Data Science Fundamentals — Udacity
+- API Security Fundamentals — APISEC University
+- Introduction to Cybersecurity — Cisco Networking Academy
 
 ---
 
-### ⚙️ Developer Environment
+### 🤝 Leadership & Community
+
+- **Student Technical Lead (Volunteer)** — Mekelle University Tech Club, 2023–Present: organized hackathons, coding workshops, and peer code review sessions for 50+ students.
+- **Technical Mentor**: individually coached 20+ junior students in React, Next.js, Python, FastAPI, and Git best practices — several went on to land internships and junior engineering roles.
+- Consistently placed in top teams at university-level hackathons for solution design and execution.
+
+---
+
+### 🌐 Languages
+
+English (Working Proficiency) • Amharic (Native) • Tigrigna (Native)
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/badge/IDE-VS_Code_(Tokyo_Night)-1E1E2E?style=flat-square&logo=visualstudiocode&logoColor=007ACC" />
-  <img src="https://img.shields.io/badge/Terminal-Windows_WSL2_/_Zsh-4E5569?style=flat-square&logo=windows-terminal&logoColor=white" />
-  <img src="https://img.shields.io/badge/Database-PostgreSQL_/_MongoDB_/_Redis-336791?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Containers-Docker_/_Compose-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deployment-Vercel_/_Docker_Containers-000000?style=flat-square&logo=vercel&logoColor=white" />
-</p>
-
----
-
-### 🌟 Architectural Project Deep-Dives
-
-<details>
-<summary>🏫 <b>School Management Portal</b> — <i>(Next.js • TypeScript • Prisma • PostgreSQL)</i></summary>
-<br />
-
-- **Architectural Highlights:** Multi-tenant database isolation, dynamic server-side rendering (SSR), automated grade calculations, and real-time parent-teacher messaging.
-- **Performance:** Sub-100ms response times for student records with optimized PostgreSQL indexing and Prisma ORM query tuning.
-- 🔗 **Live Demo:** [amarebirhane.vercel.app](https://amarebirhane.vercel.app)
-</details>
-
-<details>
-<summary>🛡️ <b>Life Insurance Underwriting Engine</b> — <i>(FastAPI • Next.js • PostgreSQL • JWT)</i></summary>
-<br />
-
-- **Architectural Highlights:** Asynchronous risk calculation engine, multi-tier agent commission tracking, and strict RBAC authorization policies.
-- **Enterprise Impact:** Handled **1,000+ active policies** while reducing manual underwriting data entry errors by **40%**.
-- 🔗 **Live Demo:** [amarebirhane.vercel.app](https://amarebirhane.vercel.app)
-</details>
-
-<details>
-<summary>📈 <b>Enterprise Financial Platform</b> — <i>(Python • FastAPI • Vue.js • Docker)</i></summary>
-<br />
-
-- **Architectural Highlights:** Double-entry bookkeeping ledger, real-time expense monitoring, multi-currency conversion, and exportable financial audit reports.
-- **DevOps:** Fully containerized with Docker & Docker Compose for 100% dev-to-prod environment parity.
-- 🔗 **Live Demo:** [amarebirhane.vercel.app](https://amarebirhane.vercel.app)
-</details>
-
-<details>
-<summary>🤖 <b>NextGen AI Assistant Platform</b> — <i>(Next.js • NestJS • PyTorch • PostgreSQL)</i></summary>
-<br />
-
-- **Architectural Highlights:** Streaming response processing pipelines, LLM context window optimization, and custom vector search database integration.
-- 🔗 **Live Demo:** [amarebirhane.vercel.app](https://amarebirhane.vercel.app)
-</details>
-
----
-
-### 🎯 2026 Architectural Roadmap
-
-- ⚡ **Distributed Systems:** Master-level event-driven architecture using NestJS microservices & Redis BullMQ queueing.
-- 📱 **Offline-First Resilience:** Advanced local cache synchronization patterns in Flutter & React Native.
-- 🛡️ **Zero-Downtime CI/CD:** Hardening continuous delivery pipelines with automated integration testing & Docker orchestration.
-
----
-
-### 📊 GitHub Profile Analytics
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=amarebirhane&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Amare's GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=amarebirhane&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=amarebirhane&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
@@ -233,23 +176,9 @@ const amareBirhane: StaffEngineer = {
 
 ---
 
-### 💬 Daily Tech Thought
+### 📬 Get in Touch
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-</p>
-
----
-
-### 🤝 Let's Architect & Build Something Exceptional!
-
-Whether you need a **Software Engineer**, **Systems Architect**, or **Lead Developer**, let's connect:
-
-- 🌐 **Portfolio Website:** [amarebirhane.vercel.app](https://amarebirhane.vercel.app)
-- 💼 **LinkedIn Profile:** [linkedin.com/in/amarebirhane](https://www.linkedin.com/in/amarebirhane)
-- ✉️ **Direct Email:** [amarebirhane89@gmail.com](mailto:amarebirhane89@gmail.com)
-- 🐙 **GitHub Repository:** [@amarebirhane](https://github.com/amarebirhane)
-
-<p align="center">
-  <sub>Engineered with precision & architectural authority by Amare Birhane • 2026</sub>
-</p>
+- 🌐 **Portfolio:** [amarebirhane.vercel.app](https://amarebirhane.vercel.app)
+- 💼 **LinkedIn:** [linkedin.com/in/amarebirhane](https://www.linkedin.com/in/amarebirhane)
+- ✉️ **Email:** [amarebirhane89@gmail.com](mailto:amarebirhane89@gmail.com)
+- 🐙 **GitHub:** [@amarebirhane](https://github.com/amarebirhane)
