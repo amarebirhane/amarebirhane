@@ -138,7 +138,7 @@ Cross-platform iOS & Android app built with Flutter/Dart, with native Kotlin and
 <summary>💰 <b>Financial Management System</b> — <i>(Next.js • FastAPI • PostgreSQL • JWT • Docker • AWS)</i></summary>
 <br />
 
-Financial platform managing 500+ records with real-time transaction tracking, audit logs, and 20+ REST endpoints; containerized and deployed to AWS with 99.9% uptime.
+Financial platform managing 500+ records with real-time transaction tracking, audit logs, and 20+ REST endpoints; 
 - 🔗 **GitHub Repository:** [github.com/amarebirhane/financial-management-system](https://github.com/amarebirhane/financial-management-system)
 </details>
 
