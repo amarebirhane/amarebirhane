@@ -70,19 +70,6 @@ const amareBirhane: SoftwareEngineer = {
 };
 ```
 
----
-
-### 📊 Production Track Record & Role-Based Metrics
-
-| Metric | CV Role & Context | Impact & Technical Accomplishment |
-| :--- | :--- | :--- |
-| 🚀 **35+ Projects Shipped** | Freelance & Academic Projects | Delivered full-stack & mobile apps across fintech, healthtech, education, and logistics |
-| 🛡️ **1,000+ Active Policies** | Software Engineering Intern — Vite Technology | Engineered full-stack insurance policy platform with automated premium & renewal tracking |
-| 📉 **40% Error Drop** | Software Engineering Intern — Vite Technology | Reduced manual data-entry errors via client & server validation logic |
-| 👥 **20+ Devs Mentored** | Student Technical Lead — Mekelle University Tech Club | Coached junior developers in React, Next.js, Python, FastAPI, and Git practices |
-
----
-
 ### 🛠️ Technology Ecosystem
 
 #### **Frontend & Mobile Development**
@@ -146,7 +133,7 @@ const amareBirhane: SoftwareEngineer = {
 
 ---
 
-### 🌟 Key Projects
+### 🌟 Selected Projects
 
 <details>
 <summary>📱 <b>Daily Activity Management</b> — <i>(Flutter • Dart • Kotlin • Swift • FastAPI • Docker)</i></summary>
@@ -223,15 +210,7 @@ A full-stack productivity app with a TypeScript frontend, Python services, and a
 - **API Security Fundamentals** — APISEC University
 - **Introduction to Cybersecurity** — Cisco Networking Academy
 
----
 
-### 🤝 Leadership & Community
-
-- **Student Technical Lead (Volunteer)** — Mekelle University Tech Club, 2023–Present: organized hackathons, coding workshops, and peer code review sessions for 50+ students.
-- **Technical Mentor**: individually coached 20+ junior students in React, Next.js, Python, FastAPI, and Git best practices.
-- Consistently placed in top teams at university-level hackathons for solution design and execution.
-
----
 
 ### 🌐 Languages
 
