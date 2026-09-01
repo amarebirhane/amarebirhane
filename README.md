@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://amarebirhane.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=AMARE+BIRHANE;Senior+Software+Engineer+%E2%80%A2+Systems+Architect;Next.js+%E2%80%A2+Vue.js+%E2%80%A2+Flutter+%E2%80%A2+React+Native;FastAPI+%E2%80%A2+NestJS+%E2%80%A2+Node.js+%E2%80%A2+Java;Building+Sub-100ms+High-Availability+Ecosystems" alt="Amare Birhane - Senior Systems Architect" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=AMARE+BIRHANE;Software+Engineer+%E2%80%A2+Systems+Architect;Next.js+%E2%80%A2+Vue.js+%E2%80%A2+Flutter+%E2%80%A2+React+Native;FastAPI+%E2%80%A2+NestJS+%E2%80%A2+Node.js+%E2%80%A2+Java;Building+Sub-100ms+High-Availability+Ecosystems" alt="Amare Birhane - Systems Architect" />
   </a>
 </p>
 
@@ -25,14 +25,14 @@
 $ npx amarebirhane --architect
 
   [+] Name:              Amare Birhane
-  [+] Designation:       Senior Software Engineer & Systems Architect
+  [+] Designation:       Software Engineer & Systems Architect
   [+] Location:          Mekelle, Tigray, Ethiopia
   [+] Architectural Core: High-Availability Systems, Sub-100ms Latency APIs, DDD
   [+] Web Ecosystem:     Next.js (App Router/SSR), Vue.js, FastAPI, NestJS, Node.js
   [+] Mobile Stack:      Flutter (BLoC/Riverpod), React Native
   [+] Enterprise Core:   TypeScript, Java, Python, Dart, PostgreSQL, Docker
   [+] Portfolio:         https://amarebirhane.vercel.app
-  [+] Status:            Available for Senior / Lead / Staff Engineering Roles 🚀
+  [+] Status:            Available for Lead / Staff Engineering Roles 🚀
 ```
 
 ---
@@ -52,7 +52,7 @@ interface StaffEngineer {
 
 const amareBirhane: StaffEngineer = {
   name: "Amare Birhane",
-  title: "Senior Software Engineer & Systems Architect",
+  title: "Software Engineer & Systems Architect",
   location: "Mekelle, Tigray, Ethiopia",
   specialties: [
     "High-Availability Microservices",
@@ -105,7 +105,7 @@ const amareBirhane: StaffEngineer = {
 
 ---
 
-### 🎯 Senior Engineering ROI & Value Matrix
+### 🎯 Engineering ROI & Value Matrix
 
 | Partner Type | Technical Value Proposition | Core Stack Leveraged | Engineering ROI & Velocity |
 | :--- | :--- | :--- | :--- |
@@ -161,7 +161,7 @@ const amareBirhane: StaffEngineer = {
 
 ---
 
-### ⚙️ Senior Developer Environment
+### ⚙️ Developer Environment
 
 <p align="center">
   <img src="https://img.shields.io/badge/IDE-VS_Code_(Tokyo_Night)-1E1E2E?style=flat-square&logo=visualstudiocode&logoColor=007ACC" />
@@ -243,7 +243,7 @@ const amareBirhane: StaffEngineer = {
 
 ### 🤝 Let's Architect & Build Something Exceptional!
 
-Whether you need a **Senior Software Engineer**, **Systems Architect**, or **Lead Developer**, let's connect:
+Whether you need a **Software Engineer**, **Systems Architect**, or **Lead Developer**, let's connect:
 
 - 🌐 **Portfolio Website:** [amarebirhane.vercel.app](https://amarebirhane.vercel.app)
 - 💼 **LinkedIn Profile:** [linkedin.com/in/amarebirhane](https://www.linkedin.com/in/amarebirhane)
