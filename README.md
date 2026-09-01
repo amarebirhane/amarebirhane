@@ -111,26 +111,17 @@ const amareBirhane: SoftwareEngineer = {
 
 **Full-Stack Software Engineer** — Freelance & Academic Projects · *Sep 2021 – Present*
 - Built 25+ full-stack projects spanning fintech, social impact, healthcare, education, and logistics on a core Next.js / FastAPI / React / PostgreSQL stack, every one containerized with Docker.
-- Resolved 50+ production defects across personal and academic systems, cutting average resolution time by 45% through systematic root-cause analysis.
-- Led the Mekelle University Tech Club as Student Technical Lead, organizing hackathons and workshops for 50+ students, and personally mentored 20+ junior developers in React, Next.js, Python, and FastAPI.
 
 **Software Engineering Intern — Insurance Management System** — Vite Technology · *2024*
 - Built a full-stack insurance policy platform handling 1,000+ active policies with automated premium calculation and renewal tracking, replacing a manual spreadsheet process.
-- Engineered a NestJS/PostgreSQL backend with JWT auth and RBAC for agents, supervisors, and admins, integrated with a responsive Next.js frontend.
-- Cut manual data-entry errors by ~40% through automated validation, shipping with zero critical security incidents post-deployment.
 
-**Software Engineering Intern — Research Management Portal** — Mekelle University ICT Directorate, Research Unit · *2023*
+**Software Engineering Intern — Research Management Portal** — Mekelle University ICT Directorate, Research Unit · *2024*
 - Delivered a WordPress-powered researcher portal serving 200+ faculty members for submission and tracking of academic research projects.
-- Extended the platform with custom PHP plugins, JS integrations, and REST API connections.
-- Improved average page load performance by 35% through asset optimization, caching, and query tuning.
 
 ---
 
 ### 🎓 Education
-
-**BSc, Software Engineering** — Mekelle University · *Sep 2021 – Jul 2026*
-- **Coursework:** Data Structures & Algorithms, Software Engineering, Database Systems, Operating Systems, Computer Networks, OOP, Web Development
-
+**BSc, Software Engineering** — Mekelle University · *Sep 2018/19 – Jul 2026*
 ---
 
 ### 🌟 Selected Projects
