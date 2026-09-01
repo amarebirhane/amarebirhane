@@ -116,7 +116,7 @@ const amareBirhane: SoftwareEngineer = {
 - Built a full-stack insurance policy platform handling 1,000+ active policies with automated premium calculation and renewal tracking, replacing a manual spreadsheet process.
 
 **Software Engineering Intern — Research Management Portal** — Mekelle University ICT Directorate, Research Unit · *2024*
-- Delivered a WordPress-powered researcher portal serving 200+ faculty members for submission and tracking of academic research projects.
+- Delivered a WordPress-powered researcher portal and tracking of academic research projects.
 
 ---
 
