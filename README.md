@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://amarebirhane.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=AMARE+BIRHANE;Software+Engineer+%E2%80%A2+Systems+Architect;Next.js+%E2%80%A2+Vue.js+%E2%80%A2+Flutter+%E2%80%A2+React+Native;FastAPI+%E2%80%A2+NestJS+%E2%80%A2+Node.js+%E2%80%A2+Java;Building+Sub-100ms+High-Availability+Ecosystems" alt="Amare Birhane - Systems Architect" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=AMARE+BIRHANE;Software+Engineer+%E2%80%A2+Systems+Architect;Next.js+%E2%80%A2+Vue.js+%E2%80%A2+Flutter+%E2%80%A2+React+Native;FastAPI+%E2%80%A2+NestJS+%E2%80%A2+Node.js+%E2%80%A2+Java;" alt="Amare Birhane - Systems Architect" />
   </a>
 </p>
 
