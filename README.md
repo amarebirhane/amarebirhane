@@ -7,10 +7,6 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=500&color=3B82F6&center=true&vCenter=true&width=400&lines=🤖+ROBOT+IMAGE+SIMULATOR;Generated+with+code;No+external+files+needed;Next.js+•+FastAPI+•+Flutter" alt="Robot Simulator" />
-</p>
-
-<p align="center">
   <pre>
   ███████╗██████╗ ███████╗███████╗████████╗
   ██╔════╝██╔══██╗██╔════╝██╔════╝╚══██╔══╝
