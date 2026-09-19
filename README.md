@@ -7,65 +7,22 @@
 </p>
 
 <p align="center">
-  <svg width="400" height="400" viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
-    <!-- Background -->
-    <rect width="400" height="400" fill="#0F2649" rx="20"/>
-    
-    <!-- Robot Head -->
-    <rect x="100" y="80" width="200" height="150" rx="20" fill="#1A6FBF" stroke="#2563EB" stroke-width="3"/>
-    
-    <!-- Robot Face Screen -->
-    <rect x="120" y="100" width="160" height="100" rx="10" fill="#0F2649" stroke="#3B82F6" stroke-width="2"/>
-    
-    <!-- Eyes -->
-    <circle cx="150" cy="140" r="15" fill="#3B82F6">
-      <animate attributeName="opacity" values="1;0.5;1" dur="2s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="250" cy="140" r="15" fill="#3B82F6">
-      <animate attributeName="opacity" values="1;0.5;1" dur="2s" repeatCount="indefinite"/>
-    </circle>
-    
-    <!-- Mouth -->
-    <rect x="140" y="170" width="120" height="15" rx="5" fill="#3B82F6">
-      <animate attributeName="width" values="120;100;120" dur="3s" repeatCount="indefinite"/>
-    </rect>
-    
-    <!-- Antenna -->
-    <line x1="200" y1="80" x2="200" y2="40" stroke="#1A6FBF" stroke-width="4"/>
-    <circle cx="200" cy="30" r="10" fill="#3B82F6">
-      <animate attributeName="fill" values="#3B82F6;#EF4444;#3B82F6" dur="1s" repeatCount="indefinite"/>
-    </circle>
-    
-    <!-- Robot Body -->
-    <rect x="120" y="240" width="160" height="100" rx="15" fill="#1A6FBF" stroke="#2563EB" stroke-width="3"/>
-    
-    <!-- Chest Display -->
-    <rect x="140" y="260" width="120" height="60" rx="8" fill="#0F2649" stroke="#3B82F6" stroke-width="2"/>
-    
-    <!-- Code Lines on Chest -->
-    <line x1="150" y1="275" x2="200" y2="275" stroke="#3B82F6" stroke-width="2"/>
-    <line x1="150" y1="290" x2="180" y2="290" stroke="#3B82F6" stroke-width="2"/>
-    <line x1="150" y1="305" x2="220" y2="305" stroke="#3B82F6" stroke-width="2"/>
-    
-    <!-- Arms -->
-    <rect x="60" y="250" width="50" height="80" rx="10" fill="#1A6FBF" stroke="#2563EB" stroke-width="3"/>
-    <rect x="290" y="250" width="50" height="80" rx="10" fill="#1A6FBF" stroke="#2563EB" stroke-width="3"/>
-    
-    <!-- Hands -->
-    <circle cx="85" cy="340" r="20" fill="#3B82F6"/>
-    <circle cx="315" cy="340" r="20" fill="#3B82F6"/>
-    
-    <!-- Tech Icons floating around -->
-    <text x="50" y="60" font-family="Arial" font-size="24" fill="#3B82F6">⚡</text>
-    <text x="320" y="60" font-family="Arial" font-size="24" fill="#3B82F6">🚀</text>
-    <text x="30" y="200" font-family="Arial" font-size="20" fill="#3B82F6">💻</text>
-    <text x="340" y="200" font-family="Arial" font-size="20" fill="#3B82F6">🔧</text>
-    
-    <!-- Status Text -->
-    <text x="200" y="380" font-family="Arial" font-size="14" fill="#3B82F6" text-anchor="middle">Software Engineer v2.0</text>
-  </svg>
-  <br/>
-  <em>🤖 Robot generated entirely within this README.md file using SVG code</em>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=500&color=3B82F6&center=true&vCenter=true&width=400&lines=🤖+ROBOT+IMAGE+SIMULATOR;Generated+with+code;No+external+files+needed;Next.js+•+FastAPI+•+Flutter" alt="Robot Simulator" />
+</p>
+
+<p align="center">
+  <pre>
+  ███████╗██████╗ ███████╗███████╗████████╗
+  ██╔════╝██╔══██╗██╔════╝██╔════╝╚══██╔══╝
+  █████╗  ██████╔╝█████╗  ███████╗   ██║   
+  ██╔══╝  ██╔══██╗██╔══╝  ╚════██║   ██║   
+  ██║     ██║  ██║███████╗███████║   ██║   
+  ╚═╝     ╚═╝  ╚═╝╚══════╝╚══════╝   ╚═╝   
+  </pre>
+</p>
+
+<p align="center">
+  <em>🤖 Robot ASCII art generated with code — No external image files required</em>
 </p>
 
 <p align="center">
