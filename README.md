@@ -7,6 +7,29 @@
 </p>
 
 <p align="center">
+  <pre>
+  ╔══════════════════════════════════════════════════════════════════════════════╗
+  ║  ╭──────────────────────────────────────────────────────────────────────────╮ ║
+  ║  │  ██████╗ ██╗   ██╗ █████╗ ██████╗ ████████╗ █████╗  ██████╗ ███████╗██████╗ │ ║
+  ║  │  ██╔══██╗██║   ██║██╔══██╗██╔══██╗╚══██╔══╝██╔══██╗██╔════╝ ██╔════╝██╔══██╗│ ║
+  ║  │  ██████╔╝██║   ██║███████║██████╔╝   ██║   ███████║██║  ███╗█████╗  ██████╔╝│ ║
+  ║  │  ██╔══██╗╚██╗ ██╔╝██╔══██║██╔══██╗   ██║   ██╔══██║██║   ██║██╔══╝  ██╔══██╗│ ║
+  ║  │  ██████╔╝ ╚████╔╝ ██║  ██║██║  ██║   ██║   ██║  ██║╚██████╔╝███████╗██║  ██║│ ║
+  ║  │  ╚═════╝   ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝│ ║
+  ║  ╰──────────────────────────────────────────────────────────────────────────╯ ║
+  ║                    🤖 FULL-STACK SOFTWARE ENGINEER 🤖                      ║
+  ║                    Next.js • FastAPI • Flutter • Docker                    ║
+  ║  ╭──────────────────────────────────────────────────────────────────────────╮ ║
+  ║  │  💻 Building 20+ production-grade applications across fintech,            │ ║
+  ║  │     healthcare, education, and logistics sectors                      │ ║
+  ║  │  🚀 Open to full-time Software Engineering roles                        │ ║
+  ║  │  📍 Mek'ele, Tigray, Ethiopia                                          │ ║
+  ║  ╰──────────────────────────────────────────────────────────────────────────╯ ║
+  ╚══════════════════════════════════════════════════════════════════════════════╝
+  </pre>
+</p>
+
+<p align="center">
   <b>Full-Stack & Mobile Software Engineer</b> &nbsp;•&nbsp; 📍 Mekelle, Tigray, Ethiopia &nbsp;•&nbsp; 🟢 <b>Open to full-time Software Engineering roles</b>
 </p>
 
@@ -109,19 +132,23 @@ const amareBirhane: SoftwareEngineer = {
 
 ### 💼 Experience
 
-**Full-Stack Software Engineer** — Freelance & Academic Projects · *Sep 2021 – Present*
-- Built 25+ full-stack projects spanning fintech, social impact, healthcare, education, and logistics on a core Next.js / FastAPI / React / PostgreSQL stack, every one containerized with Docker.
+**Software Engineer** — Independent Software Engineer · *January 2021 – Present*
+- Independent full-stack development since 2021 — designing and building 20+ projects across fintech, education, healthcare, and logistics. Deployed applications to cloud and staging environments for hands-on training and portfolio growth, with all work publicly documented on GitHub.
 
-**Software Engineering Intern — Insurance Management System** — Vite Technology · *2024*
+**Resources Center System** — Grand Technology Solution · *January 2026 - June 2026*
+- Built a real-time university asset booking system using Vue.js, Node.js, Express, MongoDB, and Socket.io with AWS S3 integration.
+
+**Software Engineering Intern — Insurance Management System** — Vite Technology · *January 2025 - June 2025*
 - Built a full-stack insurance policy platform handling 1,000+ active policies with automated premium calculation and renewal tracking, replacing a manual spreadsheet process.
 
-**Software Engineering Intern — Research Management Portal** — Mekelle University ICT Directorate, Research Unit · *2024*
+**Software Engineering Intern — Research Management Portal** — Mekelle University ICT Directorate, Research Unit · *January 2025 - June 2025*
 - Delivered a WordPress-powered researcher portal and tracking of academic research projects.
 
 ---
 
 ### 🎓 Education
-**BSc, Software Engineering** — Mekelle University · *Sep 2018/19 – Jul 2026*
+**BSc, Software Engineering** — Mekelle University · *Graduated July 4, 2026*
+**BSc, Business Management** — Ethio lens College
 ---
 
 ### 🌟 Selected Projects
@@ -194,12 +221,12 @@ A full-stack productivity app with a TypeScript frontend, Python services, and a
 
 ### 📜 Certifications
 
-- **Artificial Intelligence Fundamentals** — Udacity
-- **Android Developer Fundamentals** — Udacity
-- **Data Analysis Fundamentals** — Udacity
-- **Data Science Fundamentals** — Udacity
+- [**Artificial Intelligence Fundamentals**](https://www.udacity.com/certificate/e/7440e2f8-ff73-11f0-8abd-8bafe4d76ea1) — Udacity
+- [**Android Developer Fundamentals**](https://www.udacity.com/certificate/e/7bfc1adc-8ea0-11f1-a067-5720a9eaa2c6) — Udacity
+- [**Data Analysis Fundamentals**](https://www.udacity.com/certificate/e/113a79dc-ff76-11f0-aa18-8308b8f7ac44) — Udacity
+- [**Data Science Fundamentals**](https://www.udacity.com/certificate/e/927e6566-8ea6-11f1-b720-4f945a9fe8ce) — Udacity
 - **API Security Fundamentals** — APISEC University
-- **Introduction to Cybersecurity** — Cisco Networking Academy
+- [**Introduction to Cybersecurity**](https://www.credly.com/badges/f38511b7-bfe9-44a2-981b-a81466f13c75/public_url) — Cisco Networking Academy
 
 
 
